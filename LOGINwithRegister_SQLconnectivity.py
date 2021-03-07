@@ -9,7 +9,6 @@ from  PIL import ImageTk
 from tkinter import messagebox
 import mysql.connector
 import re
-import mysql.connector
 class Login:
 
     def __init__(self,root):
@@ -21,8 +20,7 @@ class Login:
         self.root.geometry("1200x600")
         self.root.resizable(False,False)
         
-        
-        
+            
     # image loader
     
         self.bg=ImageTk.PhotoImage(file="C:/Users/COMPUTER/Desktop/LoginSystemPython/background_image.jpg")
@@ -49,9 +47,11 @@ class Login:
         self.txt_pass.place(x=90,y=290,width=350,height=35)
     
     ## New user registration
+    
         new_user=Button(Frame_login,text=" New user? Register here! ",command=self.register,fg="brown",bg="white",bd=0,font=("garamond",14,"bold")).place(x=110,y=330,width=300,height=30)
         
     ## Login button
+    
         Login_button=Button(self.root,command=self.login_function,text="Login ",fg="white",bg="brown",font=("garamond",20,"bold")).place(x=490,y=480,width=160,height=40)
     
     ## registration window
@@ -68,6 +68,7 @@ class Login:
         registerWindow.resizable(False,False)
         
         ## adding image and labels
+        
         pyimage2=Label(registerWindow,image=self.logo).place(x=250,y=20,width=100,height=100)
         
         name=Label(registerWindow,text="Name",font=("times new roman",14),fg="black",bg="white").place(x=100,y=150)
@@ -87,6 +88,7 @@ class Login:
         self.userpass_confirm.place(x=280,y=300,width=250)
         
         ## registration button
+        
         reg=Button(registerWindow,text=" Register ",command=self.register_function,fg="brown",bg="white",font=("garamond",18,"bold")).place(x=160,y=350,width=300,height=40)
         
     def login_function(self):
