@@ -33,5 +33,6 @@ print ("Current temperature          : {:.2f} deg C".format(tempC))
 print ("Current weather description  :",weatherdes)
 print ("Current Humidity level       :",humid, '%')
 print ("Current wind speed           :",wind ,'kmph')
+plt.show()
 
 #Abhishek Venugopal
