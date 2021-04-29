@@ -1,0 +1,8 @@
+# requests
+# matplotlib
+# API from openweathermap.org
+..............
+Upcoming improvements
+..............
+# Flask
+# Heroku cloud
