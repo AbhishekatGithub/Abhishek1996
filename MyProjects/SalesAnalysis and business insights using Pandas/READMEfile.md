@@ -4,8 +4,13 @@ Dataset Used: https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/maste
 
 The following questions were answered:
 #The data and the plots talk!
+
 1) What month had the highest and lowest sales , and what were the sales numbers?
+
 2)What US city had the highest number of sales ?
+
 3) What time should the business display ads for maximising the likelihood of customers buying products?
+
 4) What products are often sold together?
+
 5)What product is sold the most and why?
