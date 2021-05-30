@@ -1,7 +1,7 @@
-# tkinter
-# matplotlib
-# re
-# pillow
-# mysql.connector
-# messagebox
-# MySQL database
+tkinter
+matplotlib
+re
+pillow
+mysql.connector
+messagebox
+pymysql
