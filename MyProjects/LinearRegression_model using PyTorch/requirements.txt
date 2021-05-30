@@ -1,4 +1,5 @@
-# PyTorch module
-# NumPy
-# matplotlib
-# mpl toolkits
+pytorch
+numpy
+matplotlib
+mpl_toolkits
+scipy
