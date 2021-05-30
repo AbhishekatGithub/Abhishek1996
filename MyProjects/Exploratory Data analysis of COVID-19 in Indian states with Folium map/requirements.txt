@@ -1,3 +1,7 @@
-# Pandas
-# BeautifulSoup(inbuilt/optional)
-# Folium library
+pandas
+BeautifulSoup
+folium
+seaborn
+matplotlib
+numpy
+
