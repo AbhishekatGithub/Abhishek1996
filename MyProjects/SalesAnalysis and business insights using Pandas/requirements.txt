@@ -1,4 +1,6 @@
-# Pandas
-# matplotlib
-# re
-# collections,itertools
+pandas
+matplotlib
+re
+collections
+itertools
+seaborn
