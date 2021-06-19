@@ -19,9 +19,9 @@ See images below for the application GUI look and function
          
      
 
-Format: ![Alt Text](https://github.com/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/GUI_LoginSystem_with_Tkinter/Login%20image.png?raw=true)
+![Alt Text](https://github.com/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/GUI_LoginSystem_with_Tkinter/Login%20image.png?raw=true)
 
     Registration page
     
     
-Format: ![Alt Text](https://github.com/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/GUI_LoginSystem_with_Tkinter/Register%20image.png?raw=true)
+![Alt Text](https://github.com/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/GUI_LoginSystem_with_Tkinter/Register%20image.png?raw=true)
