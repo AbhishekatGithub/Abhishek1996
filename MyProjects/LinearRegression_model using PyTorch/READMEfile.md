@@ -11,5 +11,6 @@ Multinomial linear regression in PyTorch using gradient descent optimization. Es
 Weights and biases are estimated using random sampling and Torch optimization function (torch.SGD.optim) to arrive at the best values for the best fit plane.
 
 **Evaluation**
+
 Plots of target values obtained vs real values from randomly sampled test values
 R square values 
