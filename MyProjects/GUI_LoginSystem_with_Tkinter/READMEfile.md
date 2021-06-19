@@ -16,3 +16,5 @@ Connected to a SQL database to store and process user information using mysql.co
 See images in directory for the application GUI look and function
 
 
+![GitHub Logo](Login image.png)
+Format: ![Alt Text](Login image.png)
