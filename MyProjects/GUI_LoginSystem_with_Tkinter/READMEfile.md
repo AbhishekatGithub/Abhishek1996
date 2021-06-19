@@ -17,11 +17,11 @@ See images below for the application GUI look and function
 
          Login page
          
-     ![GitHub Logo](/images/logo.png)
+     
 
 Format: ![Alt Text](https://github.com/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/GUI_LoginSystem_with_Tkinter/Login%20image.png?raw=true)
 
     Registration page
     
-    ![GitHub Logo](/images/logo.png)
+    
 Format: ![Alt Text](https://github.com/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/GUI_LoginSystem_with_Tkinter/Register%20image.png?raw=true)
