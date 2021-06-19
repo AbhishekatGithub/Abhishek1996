@@ -1,4 +1,4 @@
-**Data**
+           **Data**
 
 Weather data of temperature, humidity and rainfall of Kanto region in USA( all values standardized in same scale of SI units)
 
