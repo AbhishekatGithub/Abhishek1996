@@ -1,7 +1,0 @@
-tkinter
-matplotlib
-re
-pillow
-mysql.connector
-messagebox
-pymysql
