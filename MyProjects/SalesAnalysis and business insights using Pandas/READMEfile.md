@@ -1,6 +1,6 @@
            Problem Statement
 
-Extracting sales data of electronic items in US states in 2019 and deriving useful business insights and answering relevant questions through data-driven analysis using Pandas. Learned extensive application of data cleaning and mining through this data analysis project .
+Extracting sales data of electronic items in US states in 2019 and deriving useful business insights and answering relevant questions through data-driven analysis using Pandas. 
 
            Dataset Used
 
