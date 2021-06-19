@@ -16,5 +16,5 @@ Connected to a SQL database to store and process user information using mysql.co
 See images in directory for the application GUI look and function
 
 
-![GitHub Logo](Login image.png)
-Format: ![Alt Text](Login image.png)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://github.com/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/GUI_LoginSystem_with_Tkinter/Login%20image.png?raw=true)
