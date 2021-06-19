@@ -11,7 +11,7 @@ https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysi
 Combined the sales data for all the months into a single csv file for analysis using Pandas
 The following questions were answered through exploratory data analysis and data mining with Pandas functions
 
-           Method
+           Method ( Questions answered)
  #The data and the plots talk!
 
 1) What month had the highest and lowest sales , and what were the sales numbers?
