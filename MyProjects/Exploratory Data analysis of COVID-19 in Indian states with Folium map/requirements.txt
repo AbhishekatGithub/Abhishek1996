@@ -1,7 +1,0 @@
-pandas
-BeautifulSoup
-folium
-seaborn
-matplotlib
-numpy
-
