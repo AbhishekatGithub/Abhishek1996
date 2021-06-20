@@ -2,7 +2,7 @@
 
 
 Multiclass classification of E-commerce products into four classes 1 through 4 of 0.1 M products/records with 48 categorical features of which most of them are right skewed.
-The objective is to predict the classes and return the probability of occurannce for each class for all the products( test data with 50k records)
+The objective is to predict the classes and return the probability of occurance for each class for all the products( test data with 50k records)
 
 
               Data
