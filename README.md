@@ -1,3 +1,8 @@
 # Abhishek Venugopal
-Welcome to my GitHub repository, the place where I submit my coding projects.All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning. Please visit "MyProjects" folder for the notebooks and the code  and "Projects" tab to go through the Readme files. I am currently learning to deploy models in the cloud and include more complex projects based on Machine Learning and Deep Learning in the near future. 
-More projects are on the pipeline... 
+
+       Welcome to my GitHub repository
+       
+My main repository where I submit my coding, data science and analytics projects. All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning. 
+ **Please visit "MyProjects" folder for the notebooks and the code  and "Projects" tab to go through the summary. Read the readme.md files for getting a glimpse of what the projct is about, the approaches and results** 
+ 
+ More projects are on the pipeline... 
