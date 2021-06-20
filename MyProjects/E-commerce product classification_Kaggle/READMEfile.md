@@ -33,4 +33,4 @@ Testing  : 50K records to be classified into these four classes as a measure of 
   
         Key insights
   
-  Not in all cases is 1) removing outliers and 2) random upsampling of minor classes for dealing with imbalanced classes yield a better result 3) Each model has its own advangtages for a particular typr of dataset and its category 4) Domain kknowledge has to be applied for feature engineering, failing to have a good grasp on domain can be supplemented with careful analysis of all features and considering all as equally important and proceeding further from there.
+  Not in all cases is 1) removing outliers and 2) random upsampling of minor classes for dealing with imbalanced classes yield a better result 3) Each model has its own advangtages for a particular type of dataset and its category 4) Domain knowledge has to be applied for feature engineering, failing to have a good grasp on domain can be supplemented with careful analysis of all features and considering all as equally important and proceeding further from there.
