@@ -24,6 +24,7 @@ Testing  : 50K records to be classified into these four classes as a measure of 
   
   Random Forest , XGBoost and LightGBM were used in a pipeline 
   LightGBM was better both on scores and speed, a good choice for this sparsely located dataset values with more categorical features spread over a large range(-10 to 75) 
+  
   OPTUNA --> Used for hyper-parameter optimization with 20 trials, best result with LGBM of 1.087 log-loss score
   
          Evaluation criteria
