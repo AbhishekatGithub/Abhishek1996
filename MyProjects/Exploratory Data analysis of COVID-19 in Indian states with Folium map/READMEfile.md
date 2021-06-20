@@ -13,5 +13,7 @@ https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data/India_medical_case
 Using Pandas and Folium map to view and interact to see the popup with the statistics of the selected state. See the notebook for more !
 
         Result
+        
+The notebook will be updated from time to time whenever fresh data comes in !
 
 https://bit.ly/3vfXA3U
