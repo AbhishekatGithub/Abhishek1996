@@ -7,6 +7,6 @@ My main repository where I submit my coding, data science and analytics projects
  **Please visit "MyProjects" folder for the notebooks and the code  and "Projects" tab to go through the summary.**
  
  
- **NOTE: Read the readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
+ **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
  
  More projects are on the pipeline... 
