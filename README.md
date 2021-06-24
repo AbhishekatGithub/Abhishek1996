@@ -15,7 +15,7 @@ My main repository where I submit my coding, data science and analytics projects
   
   2. Machine Learning Model deployment using 1) Flask 2) PyWebIO on 1) Heroku and 2) AWS cloud platforms
   
-  Find here a simple linear regression salary prediction app I deployed on my Heroku cloud.
+  Find here a simple linear regression salary prediction app I deployed on my Heroku cloud using Flask.
   
   
    https://github.com/AbhishekatGithub/Salarymodel
