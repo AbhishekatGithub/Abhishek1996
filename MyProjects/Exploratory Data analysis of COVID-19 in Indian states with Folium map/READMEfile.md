@@ -16,4 +16,4 @@ Using Pandas and Folium map to view and interact to see the popup with the stati
         
 The notebook will be updated from time to time whenever fresh data comes in !
 
-https://bit.ly/2SFjEXG
+https://bit.ly/2Szp5r0
