@@ -144,3 +144,5 @@ root=Tk()
 obj=Login(root)
 root.mainloop()
 
+# GO THROUGH README FILE TO CHECK HOW THE APPLICATION LOOKS
+
