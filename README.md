@@ -34,7 +34,7 @@ My main repository where I submit my coding, data science and analytics projects
 
                      Project 2
                 
-    **Login / Registration GUI application using Python tkinter module with MySQL backend**
+  **Login / Registration GUI application using Python tkinter module with MySQL backend**
     
     * Created a functional GUI based employee login/registration system using tkinter with MySQL connectivity through python for authentication. 
     * Appropriate display of error messages with regex for invalid email IDs or duplicate entries
@@ -43,7 +43,7 @@ My main repository where I submit my coding, data science and analytics projects
 
                      Project 3
 
-       **Sales analysis of electronic goods using Pandas**
+   **Sales analysis of electronic goods using Pandas**
        
      * Extracted monthly sales data of electronic products in US states in 2019 (from GitHub), combined them to a single dataframe
      * Derived useful customer insights and answered relevant questions which can translate to improved business through data-driven analysis by extensively using Pandas data          analysis and mining techniques
@@ -51,7 +51,7 @@ My main repository where I submit my coding, data science and analytics projects
      
                      Project 4
         
-        **E-commerce products classification using LightGBM and OPTUNA**
+     **E-commerce products classification using LightGBM and OPTUNA**
         
      * Conducted EDA and feature selection in a highly imbalanced dataset containing 0.1M records and 48 right-skewed categorical features having four classes
      * Experimented with SMOTE, data transformation and outlier detection techniques and prepared the data for Random Forest, XGBoost and LightGBM pipeline 
