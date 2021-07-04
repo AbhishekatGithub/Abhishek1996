@@ -84,4 +84,4 @@ My main repository where I submit my coding, data science and analytics projects
 
 
     
-                                         Please visit MyProjects folder and Readme for the notebooks,approach and the code
+                           Please visit MyProjects folder and Readme for the notebooks,approach and the code
