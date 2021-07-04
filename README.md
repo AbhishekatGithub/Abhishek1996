@@ -51,11 +51,37 @@ My main repository where I submit my coding, data science and analytics projects
      
                      Project 4
         
-     **E-commerce products classification using LightGBM and OPTUNA**
+  **E-commerce products classification using LightGBM and OPTUNA**
         
      * Conducted EDA and feature selection in a highly imbalanced dataset containing 0.1M records and 48 right-skewed categorical features having four classes
      * Experimented with SMOTE, data transformation and outlier detection techniques and prepared the data for Random Forest, XGBoost and LightGBM pipeline 
      * Used OPTUNA hyper-parameter optimization with 20 trials
      * Achieved the best log loss (evaluation metric) score of 1.086 with LightGBM model, placing it in the top 25 % of all predicted models in Kaggle
     
-              Please visit MyProjects folder for the notebooks and the code
+    
+                     Project 5
+
+**Data Visualization Project 1 : World Happiness Report 2021 -- Is your country happy ?**
+
+* Creating interactive visualizations using Seaborn and Plotly for the World Happiness Report 2021 and find out why some countries are happy or unhappy.
+* Dataset from Kaggle : https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
+* The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic     production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in       Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors
+* Highly interactive charts and graphs for the insights found out through visualization
+
+
+                     Project 6
+                     
+**Linear regression model with gradient descent optimizaztion using PyTorch tensors**
+                     
+ * Weather data of temperature, humidity and rainfall of Kanto region in USA( all values standardized in same scale of SI units)
+
+* Multinomial linear regression in PyTorch using gradient descent optimization. Estimated the yield of crops 1 and 2 as a plane in 3D space obtained by a linear combination of parameters plus the biases
+   
+* Weights and biases are estimated using random sampling and Torch optimization function (torch.SGD.optim) after 100 epochs to arrive at the best values for the best fit plane.  
+* Evaluation: Plots of target values obtained vs real values from randomly sampled test values and R square values
+
+  
+
+
+    
+                                         Please visit MyProjects folder and Readme for the notebooks,approach and the code
