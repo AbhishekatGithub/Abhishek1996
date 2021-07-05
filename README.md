@@ -4,7 +4,7 @@
        
 My main repository where I submit my coding, data science and analytics projects. All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning. 
 
- **Please visit "MyProjects" folder for the notebooks and the code.
+ **Please visit "MyProjects" folder for the notebooks and the code**
  
  
  **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
