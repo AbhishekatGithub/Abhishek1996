@@ -20,7 +20,7 @@ My main repository where I submit my coding, data science and analytics projects
   
    https://github.com/AbhishekatGithub/Salarymodel
 
-Checkout my Medium blog which I statrted few weeks ago : https://datascienceworks.medium.com/ 
+**Checkout my Medium blog which I statrted few weeks ago** : https://datascienceworks.medium.com/ 
 
 **DESCRIPTION OF PROJECTS**
               
