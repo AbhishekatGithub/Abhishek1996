@@ -48,7 +48,7 @@ My main repository where I submit my coding, data science and analytics projects
    
    
 
-**MEDIUM BLOG** - Data science and analytics, business, technologies
+**MEDIUM BLOG - Data science and analytics, business, technologies**
 
 
 **Checkout my Medium blog ** : https://datascienceworks.medium.com/ 
