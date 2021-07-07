@@ -10,10 +10,12 @@ My main repository where I submit my coding, data science and analytics projects
  **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
  
  
-**NEW PROJECT**
+**DEPLOYMENT PROJECT (NEW) - Streamlit web application**
 
    Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
    Assumption: Price of property did not vary after the dataset was released in 2014. 
+   
+   Git : https://github.com/AbhishekatGithub/houseprices_streamlit
    
    App Link: https://usa-house-price-location.herokuapp.com/
    
@@ -23,18 +25,27 @@ My main repository where I submit my coding, data science and analytics projects
   1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
   
   2. Machine Learning Model deployment using 1) Flask 2) PyWebIO on 1) Heroku and 2) AWS cloud platforms
+
+
+
   
-  **Find here a simple linear regression salary prediction app I deployed on my Heroku cloud using Flask** ( see its Readme.md for app link)
-  
-  
-   https://github.com/AbhishekatGithub/Salarymodel
+  **DEPLOYMENT PROJECT 1 - Predict salary(linear regression) Flask web application**
+ 
+   Git : https://github.com/AbhishekatGithub/Salarymodel
+   
+   App link: https://github.com/AbhishekatGithub/Salarymodel
+   
+   
    
 
 **Checkout my Medium blog which I started few weeks ago** : https://datascienceworks.medium.com/ 
 
 
 
-**DESCRIPTION OF PROJECTS**
+
+
+**DESCRIPTION OF PROJECTS ( Python, Data analytics,machine learning)**
+
               
                      Project 1
    
