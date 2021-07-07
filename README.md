@@ -5,7 +5,8 @@
 My main repository where I submit my coding, data science and analytics projects. All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning. 
 
  **Please visit "MyProjects" folder for the notebooks and the code**
- 
+ &nbsp;
+ &nbsp;
  **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
  
  &nbsp;
@@ -22,10 +23,13 @@ My main repository where I submit my coding, data science and analytics projects
 &nbsp;
 &nbsp;
 &nbsp;
-         DEPLOYMENT PROJECTS
+
+                  DEPLOYMENT PROJECTS
                 
  &nbsp;
+ &nbsp;
 **DEPLOYMENT PROJECT (NEW) - Streamlit web application**
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -41,8 +45,11 @@ My main repository where I submit my coding, data science and analytics projects
   &nbsp; 
   
   **DEPLOYMENT PROJECT 1 - Predict salary(linear regression) Flask web application**
- &nbsp;
- &nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+
    Git : https://github.com/AbhishekatGithub/Salarymodel
    
    App link: https://github.com/AbhishekatGithub/Salarymodel
@@ -51,17 +58,21 @@ My main repository where I submit my coding, data science and analytics projects
 &nbsp;  
 &nbsp;  
 &nbsp;
+
 **MEDIUM BLOG** - Data science and analytics, business, technologies 
 
 &nbsp;
 &nbsp;
+
 Checkout my Medium blog  : https://datascienceworks.medium.com/ 
+
 &nbsp;
 &nbsp;
 &nbsp;
 
 
 **DESCRIPTION OF PROJECTS ( Python, Data analytics,machine learning)**
+
 &nbsp;
 &nbsp;
               
