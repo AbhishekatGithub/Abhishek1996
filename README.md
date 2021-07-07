@@ -45,13 +45,13 @@ App Link: https://usa-house-price-location.herokuapp.com/
 
    Git : https://github.com/AbhishekatGithub/Salarymodel
    
-   App link: https://github.com/AbhishekatGithub/Salarymodel
-    
+   App link: https://github.com/AbhishekatGithub/Salarymodel  
 -------------------------------------------------------------------------------------
      Blog
 
 **MEDIUM BLOG** - Data science and analytics, business, technologies 
 &nbsp;
+
 Checkout my Medium blog  : https://datascienceworks.medium.com/ 
 
 &nbsp;
