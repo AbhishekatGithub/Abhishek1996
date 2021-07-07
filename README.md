@@ -11,7 +11,11 @@ My main repository where I submit my coding, data science and analytics projects
  
  
  
+ 
+ 
 **DEPLOYMENT PROJECT (NEW) - Streamlit web application**
+
+
 
    Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
    Assumption: Price of property did not vary after the dataset was released in 2014. 
@@ -19,6 +23,8 @@ My main repository where I submit my coding, data science and analytics projects
    Git : https://github.com/AbhishekatGithub/houseprices_streamlit
    
    App Link: https://usa-house-price-location.herokuapp.com/
+   
+   
    
    
    
@@ -32,11 +38,16 @@ My main repository where I submit my coding, data science and analytics projects
 
   
   
+  
+  
   **DEPLOYMENT PROJECT 1 - Predict salary(linear regression) Flask web application**
+  
  
    Git : https://github.com/AbhishekatGithub/Salarymodel
    
    App link: https://github.com/AbhishekatGithub/Salarymodel
+   
+   
    
    
    
@@ -49,9 +60,13 @@ My main repository where I submit my coding, data science and analytics projects
 
 
 
+
+
 **DESCRIPTION OF PROJECTS ( Python, Data analytics,machine learning)**
 
 
+              
+              
               
                      Project 1
    
@@ -61,6 +76,10 @@ My main repository where I submit my coding, data science and analytics projects
 * Rendered an interactive zoom-able map using Folium library along with insightful visualizations of the statistics of the pandemic using seaborn library.
 * The data has been scraped from Wikipedia page on COVID-19 ( now the page is not easily findable) which takes in the information from MoHFW | https://mohfw.gov.in , Govt. of     India's official site for COVID-19 data.
 * Pandemic statistics of cases, deaths, recoveries etc. are presented as a notebook with a folium map which you can click to get statistics for each state, easy forthe end-user   to interact.
+
+
+
+
 
 
 
@@ -75,6 +94,11 @@ My main repository where I submit my coding, data science and analytics projects
     
 
 
+
+
+
+
+
                      Project 3
 
    **Sales analysis of electronic goods using Pandas**
@@ -82,6 +106,11 @@ My main repository where I submit my coding, data science and analytics projects
      * Extracted monthly sales data of electronic products in US states in 2019 (from GitHub), combined them to a single dataframe
      * Derived useful customer insights and answered relevant questions which can translate to improved business through data-driven analysis by extensively using Pandas data          analysis and mining techniques
      * Used Regex, collections and advanced Python concepts to carefully extract the data for answering specific sales/business questions
+
+
+
+
+
 
 
      
@@ -97,6 +126,11 @@ My main repository where I submit my coding, data science and analytics projects
 
     
     
+    
+    
+    
+    
+    
                      Project 5
                      
 
@@ -106,6 +140,11 @@ My main repository where I submit my coding, data science and analytics projects
 * Dataset from Kaggle : https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 * The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic     production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in       Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors
 * Highly interactive charts and graphs for the insights found out through visualization
+
+
+
+
+
 
 
 
