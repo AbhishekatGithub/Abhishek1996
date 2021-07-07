@@ -6,8 +6,9 @@ My main repository where I submit my coding, data science and analytics projects
 
  **Please visit "MyProjects" folder for the notebooks and the code**
  
- 
  **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
+ 
+ 
  
  
 **DEPLOYMENT PROJECT (NEW) - Streamlit web application**
@@ -20,6 +21,7 @@ My main repository where I submit my coding, data science and analytics projects
    App Link: https://usa-house-price-location.herokuapp.com/
    
    
+   
        Projects and activities on the pipeline
        
   1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
@@ -28,6 +30,7 @@ My main repository where I submit my coding, data science and analytics projects
 
 
 
+  
   
   **DEPLOYMENT PROJECT 1 - Predict salary(linear regression) Flask web application**
  
@@ -38,6 +41,8 @@ My main repository where I submit my coding, data science and analytics projects
    
    
 
+** MEDIUM BLOG** - Data science and analytics, business, technologies
+
 **Checkout my Medium blog which I started few weeks ago** : https://datascienceworks.medium.com/ 
 
 
@@ -45,6 +50,7 @@ My main repository where I submit my coding, data science and analytics projects
 
 
 **DESCRIPTION OF PROJECTS ( Python, Data analytics,machine learning)**
+
 
               
                      Project 1
@@ -56,6 +62,8 @@ My main repository where I submit my coding, data science and analytics projects
 * The data has been scraped from Wikipedia page on COVID-19 ( now the page is not easily findable) which takes in the information from MoHFW | https://mohfw.gov.in , Govt. of     India's official site for COVID-19 data.
 * Pandemic statistics of cases, deaths, recoveries etc. are presented as a notebook with a folium map which you can click to get statistics for each state, easy forthe end-user   to interact.
 
+
+
                      Project 2
                 
   **Login / Registration GUI application using Python tkinter module with MySQL backend**
@@ -64,6 +72,8 @@ My main repository where I submit my coding, data science and analytics projects
     * Appropriate display of error messages with regex for invalid email IDs or duplicate entries
     * Applied object oriented programming for creating two classes along with buttons and trigger functions.
     * The app can run on PC or in a local host environment when saved as a python executable file.
+    
+
 
                      Project 3
 
@@ -72,6 +82,8 @@ My main repository where I submit my coding, data science and analytics projects
      * Extracted monthly sales data of electronic products in US states in 2019 (from GitHub), combined them to a single dataframe
      * Derived useful customer insights and answered relevant questions which can translate to improved business through data-driven analysis by extensively using Pandas data          analysis and mining techniques
      * Used Regex, collections and advanced Python concepts to carefully extract the data for answering specific sales/business questions
+
+
      
                      Project 4
         
@@ -81,9 +93,12 @@ My main repository where I submit my coding, data science and analytics projects
      * Experimented with SMOTE, data transformation and outlier detection techniques and prepared the data for Random Forest, XGBoost and LightGBM pipeline 
      * Used OPTUNA hyper-parameter optimization with 20 trials
      * Achieved the best log loss (evaluation metric) score of 1.086 with LightGBM model, placing it in the top 25 % of all predicted models in Kaggle
+
+
     
     
                      Project 5
+                     
 
 **Data Visualization Project 1 : World Happiness Report 2021 -- Is your country happy ?**
 
@@ -91,6 +106,7 @@ My main repository where I submit my coding, data science and analytics projects
 * Dataset from Kaggle : https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 * The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic     production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in       Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors
 * Highly interactive charts and graphs for the insights found out through visualization
+
 
 
                      Project 6
