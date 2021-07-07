@@ -42,6 +42,7 @@ App Link: https://usa-house-price-location.herokuapp.com/
   **DEPLOYMENT PROJECT 1 - Predict salary(linear regression) Flask web application**
 &nbsp;
 &nbsp;
+
    Git : https://github.com/AbhishekatGithub/Salarymodel
    
    App link: https://github.com/AbhishekatGithub/Salarymodel
