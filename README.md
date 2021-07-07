@@ -11,6 +11,12 @@ My main repository where I submit my coding, data science and analytics projects
  
  
  
+        Projects and activities on the pipeline
+       
+  1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
+  
+  2. Machine Learning Model deployment using 1) Flask 2) PyWebIO on 1) Heroku and 2) AWS cloud platforms
+
  
  
 **DEPLOYMENT PROJECT (NEW) - Streamlit web application**
@@ -27,18 +33,6 @@ My main repository where I submit my coding, data science and analytics projects
    
    
    
-   
-       Projects and activities on the pipeline
-       
-  1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
-  
-  2. Machine Learning Model deployment using 1) Flask 2) PyWebIO on 1) Heroku and 2) AWS cloud platforms
-
-
-
-  
-  
-  
   
   **DEPLOYMENT PROJECT 1 - Predict salary(linear regression) Flask web application**
   
