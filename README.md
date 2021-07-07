@@ -18,7 +18,7 @@ My main repository where I submit my coding, data science and analytics projects
   2. Machine Learning Model deployment using 1) Flask 2) PyWebIO on 1) Heroku and 2) AWS cloud platforms
   
 
-                DEPLOYMENT PROJECTS
+         DEPLOYMENT PROJECTS
                 
  
 **DEPLOYMENT PROJECT (NEW) - Streamlit web application**
