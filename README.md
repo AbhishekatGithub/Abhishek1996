@@ -46,6 +46,7 @@ App Link: https://usa-house-price-location.herokuapp.com/
    Git : https://github.com/AbhishekatGithub/Salarymodel
    
    App link: https://github.com/AbhishekatGithub/Salarymodel  
+   
 -------------------------------------------------------------------------------------
      Blog
 
