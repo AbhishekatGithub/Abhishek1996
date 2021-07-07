@@ -2,19 +2,18 @@
 
        Welcome to my GitHub repository
        
-My main repository where I submit my coding, data science and analytics projects. All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning. 
+My main repository where I submit my coding, data science and analytics projects. All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning.
+
+&nbsp;
 
  **Please visit "MyProjects" folder for the notebooks and the code**
- &nbsp;
  &nbsp;
  
  **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
  
  &nbsp;
  &nbsp;
- &nbsp;
- &nbsp;
-
+ 
         Projects and activities on the pipeline
        
   1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
@@ -22,62 +21,46 @@ My main repository where I submit my coding, data science and analytics projects
   2. Machine Learning Model deployment using 1) Flask 2) PyWebIO on 1) Heroku and 2) AWS cloud platforms
   
 &nbsp;
-&nbsp;
-&nbsp;
+-----------------------------------------------------------------------------------
 
-                  DEPLOYMENT PROJECTS
+       DEPLOYMENT PROJECTS
                 
- &nbsp;
  &nbsp;
 **DEPLOYMENT PROJECT (NEW) - Streamlit web application**
 
 &nbsp;
-&nbsp;
-&nbsp;
-   Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
-   Assumption: Price of property did not vary after the dataset was released in 2014. 
+Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
+ Assumption: Price of property did not vary after the dataset was released in 2014. 
    
-   Git : https://github.com/AbhishekatGithub/houseprices_streamlit
+ Git : https://github.com/AbhishekatGithub/houseprices_streamlit
    
-   App Link: https://usa-house-price-location.herokuapp.com/
+App Link: https://usa-house-price-location.herokuapp.com/
    
+  &nbsp; 
   &nbsp;
-  &nbsp; 
-  &nbsp; 
-  
+  -----------------------------------------------------------------------------------
   **DEPLOYMENT PROJECT 1 - Predict salary(linear regression) Flask web application**
-
 &nbsp;
 &nbsp;
-&nbsp;
-
    Git : https://github.com/AbhishekatGithub/Salarymodel
    
    App link: https://github.com/AbhishekatGithub/Salarymodel
-   
-   
-&nbsp;  
-&nbsp;  
-&nbsp;
+    
+-------------------------------------------------------------------------------------
+     Blog
 
 **MEDIUM BLOG** - Data science and analytics, business, technologies 
-
 &nbsp;
-&nbsp;
-
 Checkout my Medium blog  : https://datascienceworks.medium.com/ 
 
 &nbsp;
 &nbsp;
-&nbsp;
-
-
+-------------------------------------------------------------------------------------
 **DESCRIPTION OF PROJECTS ( Python, Data analytics,machine learning)**
 
 &nbsp;
 &nbsp;
-              
-              
+                       
               
                      Project 1
    
