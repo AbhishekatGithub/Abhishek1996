@@ -28,7 +28,7 @@ My main repository where I submit my coding, data science and analytics projects
        
   1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
   
-  2. Machine Learning Model deployment using 1) Flask 2) PyWebIO on 1) Heroku and 2) AWS cloud platforms
+  2. Machine Learning Model deployment using 1) Flask 2) PyWebIO 3) streamlit 4) FAST API on 1) Heroku and 2) AWS cloud platforms
   
 &nbsp;
 -----------------------------------------------------------------------------------
@@ -84,36 +84,37 @@ Checkout my Medium blog  : https://datascienceworks.medium.com/
 * Pandemic statistics of cases, deaths, recoveries etc. are presented as a notebook with a folium map which you can click to get statistics for each state, easy forthe end-user   to interact.
 
 
-
+See Readme here : https://bit.ly/3dTS7Jm
 
 
 
 
                      Project 2
                 
-  **Login / Registration GUI application using Python tkinter module with MySQL backend**
+**Login / Registration GUI application using Python tkinter module with MySQL backend**
     
-    * Created a functional GUI based employee login/registration system using tkinter with MySQL connectivity through python for authentication. 
-    * Appropriate display of error messages with regex for invalid email IDs or duplicate entries
-    * Applied object oriented programming for creating two classes along with buttons and trigger functions.
-    * The app can run on PC or in a local host environment when saved as a python executable file.
+   * Created a functional GUI based employee login/registration system using tkinter with MySQL connectivity through python for authentication. 
+   * Appropriate display of error messages with regex for invalid email IDs or duplicate entries
+   * Applied object oriented programming for creating two classes along with buttons and trigger functions.
+   * The app can run on PC or in a local host environment when saved as a python executable file.
     
 
 
-
+See Readme here : https://bit.ly/2SSJQOm
 
 
 
 
                      Project 3
 
-   **Sales analysis of electronic goods using Pandas**
+ **Sales analysis of electronic goods using Pandas**
        
-     * Extracted monthly sales data of electronic products in US states in 2019 (from GitHub), combined them to a single dataframe
-     * Derived useful customer insights and answered relevant questions which can translate to improved business through data-driven analysis by extensively using Pandas data          analysis and mining techniques
-     * Used Regex, collections and advanced Python concepts to carefully extract the data for answering specific sales/business questions
+   * Extracted monthly sales data of electronic products in US states in 2019 (from GitHub), combined them to a single dataframe
+   * Derived useful customer insights and answered relevant questions which can translate to improved business through data-driven analysis by extensively using Pandas data          analysis and mining techniques
+   * Used Regex, collections and advanced Python concepts to carefully extract the data for answering specific sales/business questions
+     
 
-
+ See Readme here : https://bit.ly/3hmTzWx
 
 
 
@@ -124,14 +125,14 @@ Checkout my Medium blog  : https://datascienceworks.medium.com/
         
   **E-commerce products classification using LightGBM and OPTUNA**
         
-     * Conducted EDA and feature selection in a highly imbalanced dataset containing 0.1M records and 48 right-skewed categorical features having four classes
-     * Experimented with SMOTE, data transformation and outlier detection techniques and prepared the data for Random Forest, XGBoost and LightGBM pipeline 
-     * Used OPTUNA hyper-parameter optimization with 20 trials
-     * Achieved the best log loss (evaluation metric) score of 1.086 with LightGBM model, placing it in the top 25 % of all predicted models in Kaggle
+   * Conducted EDA and feature selection in a highly imbalanced dataset containing 0.1M records and 48 right-skewed categorical features having four classes
+    * Experimented with SMOTE, data transformation and outlier detection techniques and prepared the data for Random Forest, XGBoost and LightGBM pipeline 
+    * Used OPTUNA hyper-parameter optimization with 20 trials
+    * Achieved the best log loss (evaluation metric) score of 1.086 with LightGBM model, placing it in the top 25 % of all predicted models in Kaggle
 
 
     
-    
+See Readme here : https://bit.ly/3wp5Qyb
     
     
     
@@ -148,7 +149,7 @@ Checkout my Medium blog  : https://datascienceworks.medium.com/
 * Highly interactive charts and graphs for the insights found out through visualization
 
 
-
+See Readme here : https://bit.ly/3hp9HqJ
 
 
 
@@ -166,7 +167,7 @@ Checkout my Medium blog  : https://datascienceworks.medium.com/
 * Evaluation: Plots of target values obtained vs real values from randomly sampled test values and R square values
 
   
-
+See Readme here: https://bit.ly/2TJT8N2
 
     
        Please visit MyProjects folder and Readme for the notebooks,approach and the code
