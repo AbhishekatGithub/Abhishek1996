@@ -1,5 +1,15 @@
 # Abhishek Venugopal
 
+&nbsp;
+
+Hi, 
+
+I am a graduate of IIT Madras, trained in biological sciences, bioinformatics with a minor in Computational biology. I love working with data and getting insights from them and creating high quality visualizations for the consumption of the end-users or stakeholders. Apart from the biotechnology domain, I am also equally interested in applying my data science skills to solve problems and tackle challenges in other domains like healthcare, product analytics, market research, software development etc.
+
+I can code well in Python and work with SQL (intermediate)databases. I am also equipped with good knowledge of Data science, statistics, machine learning algorithms,data mining and visualization,feature engineering and model deployment. I conduct my data analysis mostly using Pandas in Jupyter lab, Google colab and Kaggle kernel. I am also learning BI tools like Power BI and Tableau dashboards and NoSQL databases.
+
+&nbsp;
+
        Welcome to my GitHub repository
        
 My main repository where I submit my coding, data science and analytics projects. All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning.
