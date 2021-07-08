@@ -40,7 +40,7 @@ My main repository where I submit my coding, data science and analytics projects
 
 &nbsp;
 Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
- Assumption: Price of property did not vary after the dataset was released in 2014. 
+  Assumption: Price of property did not vary after the dataset was released in 2014. 
    
  Git : https://github.com/AbhishekatGithub/houseprices_streamlit
    
