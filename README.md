@@ -29,6 +29,26 @@ My main repository where I submit my coding, data science and analytics projects
   1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
   
   2. Machine Learning Model deployment using 1) Flask 2) PyWebIO 3) streamlit 4) FAST API on 1) Heroku and 2) AWS cloud platforms
+
+
+**NEW MAJOR PROJECT  -  RESUME OPTIMIZER APPLICATION (release Version 1.1) ** 🤓
+&nbsp;
+&nbsp;
+
+* Created and deployed my own resume optimizer app from scratch, used frequency, tagging , parts of speech, wordcloud in NLP using NLTK library
+
+* Employed a self-created resume scoring technique along ATS guidelines with bonus and penalty for keywords( multiplication factor)
+
+* Added an experimental salary prediction feature which I came up with ( which may or may not reveal true world data, but can be used for general cases)
+
+* No web scraping or databases are used for this project, also note that no machine learning algorithms were harmed during the making of this project 📑
+
+* Please read the documentation well before using the analysis, everything is explained in the app webpage itself !
+
+* Larger the volume of the inputs, the better will be the accuracy and performance of the model 
+&nbsp;
+
+App link : https://resume-optimizer-ats.herokuapp.com/
   
 &nbsp;
 -----------------------------------------------------------------------------------
