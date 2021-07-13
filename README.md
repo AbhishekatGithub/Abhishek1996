@@ -29,9 +29,17 @@ My main repository where I submit my coding, data science and analytics projects
   1. Tableau / Power BI dashboard which can be directly consumed by end-user for an existing data analysis project in MyProjects portfolio (eg:World Happiness Report 2021)
   
   2. Machine Learning Model deployment using 1) Flask 2) PyWebIO 3) streamlit 4) FAST API on 1) Heroku and 2) AWS cloud platforms
+&nbsp;
+&nbsp;
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+___________________________________________________________________________________________________________________________________________________________
 
-**NEW MAJOR PROJECT  -  RESUME OPTIMIZER APPLICATION (release Version 1.1) ** 🤓
+**NEW MAJOR PROJECT  -  RESUME OPTIMIZER APPLICATION (release Version 1.1)** 🤓
+
 &nbsp;
 &nbsp;
 
