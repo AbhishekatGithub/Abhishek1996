@@ -64,7 +64,7 @@ App link : https://resume-optimizer-ats.herokuapp.com/
        DEPLOYMENT PROJECTS
                 
  &nbsp;
-**DEPLOYMENT PROJECT (NEW) - Streamlit web application**
+**DEPLOYMENT PROJECT 2 - Streamlit web application**
 
 &nbsp;
 Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
