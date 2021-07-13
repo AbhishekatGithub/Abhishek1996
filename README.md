@@ -43,7 +43,7 @@ ________________________________________________________________________________
 &nbsp;
 &nbsp;
 
-* Created and deployed my own resume optimizer app from scratch, used frequency, tagging , parts of speech, wordcloud in NLP using NLTK library
+* Created and deployed my own resume optimizer app from scratch, used frequency, tagging , parts of speech, wordcloud in NLP using NLTK library and streamlit
 
 * Employed a self-created resume scoring technique along ATS guidelines with bonus and penalty for keywords( multiplication factor)
 
