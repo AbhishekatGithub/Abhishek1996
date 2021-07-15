@@ -64,7 +64,7 @@ App link : https://resume-optimizer-ats.herokuapp.com/
        DEPLOYMENT PROJECTS
                 
  &nbsp;
-**DEPLOYMENT PROJECT 2 - Streamlit web application**
+**DEPLOYMENT PROJECT 2 - Streamlit web application**  🛠️
 
 &nbsp;
 Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
@@ -77,7 +77,7 @@ App Link: https://usa-house-price-location.herokuapp.com/
   &nbsp; 
   &nbsp;
   -----------------------------------------------------------------------------------
-  **DEPLOYMENT PROJECT 1 - Flask web application**
+  **DEPLOYMENT PROJECT 1 - Flask web application** 🛠️
 &nbsp;
 
 Deployed a Flask web app on Heroku, to predict salary based on years of experience using Linear Regression model.
@@ -89,7 +89,7 @@ Deployed a Flask web app on Heroku, to predict salary based on years of experien
 -------------------------------------------------------------------------------------
      Blog
 
-**MEDIUM BLOG** - Data science and analytics, business, technologies 
+**MEDIUM BLOG** - Data science and analytics, business, technologies  ℹ️
 &nbsp;
 
 Checkout my Medium blog  : https://datascienceworks.medium.com/ 
