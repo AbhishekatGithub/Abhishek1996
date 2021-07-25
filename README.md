@@ -16,10 +16,10 @@ My main repository where I submit my coding, data science and analytics projects
 
 &nbsp;
 
- **Please visit "MyProjects" folder for the notebooks and the code**
+ **Please visit "MyProjects" folder for detailed information about the projects**
  &nbsp;
  
- **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the approaches and results, which is updated and available for each project under MyProjects folder.**
+ **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the demo videos, the approaches and results, which is updated and available for each project under MyProjects folder.**
  
  &nbsp;
  &nbsp;
