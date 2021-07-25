@@ -26,3 +26,4 @@ NumPy, NLP using NLTK library, multiple regression, conditional weights and bias
 App link : https://resume-optimizer-ats.herokuapp.com/
 
  
+https://drive.google.com/file/d/1EWh2ua1HwMtcrYwfSeKrcMtHgkqdXGsd/view?usp=sharing
