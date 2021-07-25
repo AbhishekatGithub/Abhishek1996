@@ -1,3 +1,13 @@
+**Application Demo**
+
+
+
+
+https://user-images.githubusercontent.com/79574776/126908434-ad6b0473-310d-4b53-836c-490b6a35f264.mp4
+
+
+
+
 Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map. 
 
 Assumption: Price of property did not vary after the dataset was released in 2014 by USA surveys.
