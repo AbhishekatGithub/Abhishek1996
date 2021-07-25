@@ -57,6 +57,8 @@ ________________________________________________________________________________
 &nbsp;
 
 App link : https://resume-optimizer-ats.herokuapp.com/
+
+Watch application demo : https://bit.ly/3eV7xNY
   
 &nbsp;
 -----------------------------------------------------------------------------------
@@ -74,6 +76,7 @@ Deployed a house price prediction streamlit app on Heroku, which not only predic
    
 App Link: https://usa-house-price-location.herokuapp.com/
    
+Watch application demo : https://bit.ly/3ryLbH6   
   &nbsp; 
   &nbsp;
   -----------------------------------------------------------------------------------
