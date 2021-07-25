@@ -77,6 +77,7 @@ Deployed a house price prediction streamlit app on Heroku, which not only predic
 App Link: https://usa-house-price-location.herokuapp.com/
    
 Watch application demo : https://bit.ly/3ryLbH6   
+
   &nbsp; 
   &nbsp;
   -----------------------------------------------------------------------------------
