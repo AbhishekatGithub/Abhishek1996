@@ -1,3 +1,7 @@
+           Objective
+           
+   Predict the yield of two crops based on the given parameters using Pytorch, multiple regression with stochastic gradient descent 
+           
            Data
 
 Weather data of temperature, humidity and rainfall of Kanto region in USA( all values standardized in same scale of SI units)
