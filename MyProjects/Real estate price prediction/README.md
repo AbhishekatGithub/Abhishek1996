@@ -21,6 +21,13 @@ Assumption: Price of property did not vary after the dataset was released in 201
   * Waterfront or not - Binary categorical variable
 
 
+        Algorithms
+
+
+Pipeline of DecisionTree, RandomForest, GradientBoosting and Linear Regression models.Selected the model based on the RMSE value, varies depending upon each run and user inputs.
+Coordinates mapped into map using zipcodes vs lat-lon dataset from USA survey 2014. 
+
+
          Output
 
 * Price: Prediction based on four regression models 1) DecisionTree 2) RandomForest 3) Gradient Bosting Tree 4) Linear regression
