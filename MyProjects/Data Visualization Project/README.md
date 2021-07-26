@@ -34,10 +34,14 @@ The happiness scores and rankings use data from the Gallup World Poll . The colu
 
         Notebook visualization
 
-Go to this link
+**Go to this link**
 
 https://nbviewer.jupyter.org/github/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/Data%20Visualization%20Project/World%20Happiness%20Report%202021/notebook783a8cd3c1.ipynb
 
+    
+**My Medium article on this report** : https://datascienceworks.medium.com/is-your-country-happy-in-2021-check-out-a6626d0b265a
+    
+   
        
 **Matplotlib plot included in the notebook**
     
