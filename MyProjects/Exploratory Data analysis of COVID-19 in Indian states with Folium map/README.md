@@ -17,7 +17,7 @@
 ![c4](https://user-images.githubusercontent.com/79574776/126948352-1aee42fd-7bc5-4f67-8ffc-1739a0c067d5.png)
 
 
-**See the notebook for the interactive folium map**
+**See the notebook for interacting with the folium map**
 
 
 
@@ -43,4 +43,4 @@ Using Pandas and Folium map to view and interact to see the popup with the stati
         
 The notebook will be updated from time to time whenever fresh data comes in !
 
-https://bit.ly/2Szp5r0
+Link to hosted notebook : https://bit.ly/2Szp5r0
