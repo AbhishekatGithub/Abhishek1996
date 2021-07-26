@@ -1,4 +1,4 @@
-### **Some plots from the notebook**
+### **Overview of the notebook**
 
 **See the notebook for the entire story and interactive visualizations**
 
