@@ -13,3 +13,10 @@ Weights and biases are estimated using random sampling and Torch optimization fu
          Evaluation
 
 Plots of target values obtained vs real values from randomly sampled test values and R square values 
+
+
+
+![a1](https://user-images.githubusercontent.com/79574776/126943840-53f163bb-7968-4aab-a243-6dc6bee9c4d8.png)
+
+
+![a2](https://user-images.githubusercontent.com/79574776/126943854-ce72b52a-378c-460d-a341-14e72be7e78c.png)
