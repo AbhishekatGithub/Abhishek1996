@@ -39,7 +39,8 @@ Go to this link
 https://nbviewer.jupyter.org/github/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/Data%20Visualization%20Project/World%20Happiness%20Report%202021/notebook783a8cd3c1.ipynb
 
        
-** Matplotlib plot included in the notebook**
+**Matplotlib plot included in the notebook**
+    
        
 ![happiness_stackedbar](https://user-images.githubusercontent.com/79574776/126934289-14ea4c96-9695-43d3-b186-d0b924e95a0e.png)
        
