@@ -1,6 +1,25 @@
-https://chart-studio.plotly.com/~AbhishekVIzPlotly/129.embed
+### **Some plots from the notebook**
 
+**See the notebook for the entire story and interactive visualizations**
+
+
+<div>
+    <a href="https://plotly.com/~AbhishekVIzPlotly/129/?share_key=TvMYTI2TWBONkE9qdVxAO2" target="_blank" title="plotly1" style="display: block; text-align: center;"><img src="https://plotly.com/~AbhishekVIzPlotly/129.png?share_key=TvMYTI2TWBONkE9qdVxAO2" alt="plotly1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+
+</div>
+
+              
        
+<div>
+    <a href="https://plotly.com/~AbhishekVIzPlotly/133/?share_key=52OO8ufnIl3olGZIuZTfhc" target="_blank" title="plotly3" style="display: block; text-align: center;"><img src="https://plotly.com/~AbhishekVIzPlotly/133.png?share_key=52OO8ufnIl3olGZIuZTfhc" alt="plotly3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+   
+</div>
+
+         
+ <div>
+    <a href="https://plotly.com/~AbhishekVIzPlotly/131/?share_key=nXLFkPK5kNUcuBLCYmvdBt" target="_blank" title="plotly2" style="display: block; text-align: center;"><img src="https://plotly.com/~AbhishekVIzPlotly/131.png?share_key=nXLFkPK5kNUcuBLCYmvdBt" alt="plotly2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+   
+        
          
          
          Problem Statement
@@ -18,3 +37,11 @@ The happiness scores and rankings use data from the Gallup World Poll . The colu
 Go to this link
 
 https://nbviewer.jupyter.org/github/AbhishekatGithub/Abhishek1996/blob/main/MyProjects/Data%20Visualization%20Project/World%20Happiness%20Report%202021/notebook783a8cd3c1.ipynb
+
+       
+** Matplotlib plot included in the notebook**
+       
+![happiness_stackedbar](https://user-images.githubusercontent.com/79574776/126934289-14ea4c96-9695-43d3-b186-d0b924e95a0e.png)
+       
+       
+ 
