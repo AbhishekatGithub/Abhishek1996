@@ -23,9 +23,9 @@ Testing  : 50K records to be classified into these four classes as a measure of 
              Methods and Models
   
   Random Forest , XGBoost and LightGBM were used in a pipeline 
-  LightGBM was better both on scores and speed, a good choice for this sparsely located dataset values with more categorical features spread over a large range(-10 to 75) 
+  **LightGBM** was better both on scores and speed, a good choice for this sparsely located dataset values with more categorical features spread over a large range(-10 to 75) 
   
-  OPTUNA --> Used for hyper-parameter optimization with 20 trials, best result with LGBM of 1.087 log-loss score
+  **OPTUNA** --> Used for hyper-parameter optimization with 20 trials, best result with LGBM of 1.087 log-loss score
   
          Evaluation criteria
   
@@ -34,3 +34,31 @@ Testing  : 50K records to be classified into these four classes as a measure of 
         Key insights
   
   Not in all cases is 1) removing outliers and 2) random upsampling of minor classes for dealing with imbalanced classes yield a better result 3) Each model has its own advangtages for a particular type of dataset and its category 4) Domain knowledge has to be applied for feature engineering, failing to have a good grasp on domain can be supplemented with careful analysis of all features and considering all as equally important and proceeding further from there.
+
+
+
+
+### **Overview of the Project, see notebook for details and the code**
+
+**Imbalanced classes**
+
+SMOTE analysis, Over/Undersampling techniques
+
+![t1](https://user-images.githubusercontent.com/79574776/127012022-7a64c13d-72b8-4119-89d6-362b86d9781b.png)
+
+Stripplot of the entire dataset > We can visualize outlying values, comapred to the normal distribution as seen below
+
+![t2](https://user-images.githubusercontent.com/79574776/127012031-239cb9bd-203d-4ffe-805f-24e2111e6574.png)
+
+**OPTUNA optimisation plots**
+
+![t3](https://user-images.githubusercontent.com/79574776/127012005-1d247620-6bc5-43bf-a838-91dda6d00f82.png)
+
+![t4](https://user-images.githubusercontent.com/79574776/127012017-47fceb20-6c86-4387-9343-3455e4bb6913.png)
+
+
+BEST HYPER-PARAMETERS FOUND OUT BY TRIALS USING OPTUNA
+
+![t5](https://user-images.githubusercontent.com/79574776/127012020-98ab5379-421b-447e-8a99-6b7d5ee06a0a.png)
+
+
