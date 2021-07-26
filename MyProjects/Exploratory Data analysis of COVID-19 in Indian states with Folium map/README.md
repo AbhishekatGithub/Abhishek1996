@@ -1,5 +1,28 @@
     
+    ## **Overview of the notebook**
         
+        
+![c1](https://user-images.githubusercontent.com/79574776/126948272-d0f022e1-e4d0-4df3-8805-b0480d69d521.png)
+        
+        
+![c2](https://user-images.githubusercontent.com/79574776/126948296-f8835c3f-fcf4-4808-a95a-ec8f6a778388.png)
+
+
+
+
+![c3](https://user-images.githubusercontent.com/79574776/126948318-10069c76-9c29-4c9f-923c-c2fcd35bb59a.png)
+
+
+
+![c4](https://user-images.githubusercontent.com/79574776/126948352-1aee42fd-7bc5-4f67-8ffc-1739a0c067d5.png)
+
+
+
+
+![c5](https://user-images.githubusercontent.com/79574776/126948366-085ae2cf-4858-45d2-919c-9c02a2509a4a.png)
+
+
+      
         Problem Statement
 
 Conducting exploratory data analysis of Covid-19 pandemic in India using data pulled from Wikipedia using Pandas and visualization through Seaborn and Folium map
