@@ -10,13 +10,13 @@ I can code well in Python and work with SQL (intermediate)databases. I am also e
 
 &nbsp;
 
-       Welcome to my GitHub repository
+        Welcome to my GitHub repository
        
 My main repository where I submit my coding, data science and analytics projects. All the projects are written in Python and are based on exploration of python libraries, data analytics and machine learning.
 
 &nbsp;
 
- **Please visit "MyProjects" folder for detailed information about the projects**
+### **Please visit "MyProjects" folder for detailed information about the projects**
  &nbsp;
  
  **NOTE: Read the Readme.md files for getting a glimpse of what the project is about, the demo videos, the approaches and results, which is updated and available for each project under MyProjects folder.**
@@ -38,7 +38,7 @@ My main repository where I submit my coding, data science and analytics projects
 &nbsp;
 ___________________________________________________________________________________________________________________________________________________________
 
-**NEW MAJOR PROJECT  -  RESUME OPTIMIZER APPLICATION (release Version 1.1)** 🤓
+### **NEW MAJOR PROJECT  -  RESUME OPTIMIZER APPLICATION (release Version 1.1)** 🤓
 
 &nbsp;
 &nbsp;
@@ -66,7 +66,7 @@ Watch application demo : https://bit.ly/3eV7xNY
        DEPLOYMENT PROJECTS
                 
  &nbsp;
-**DEPLOYMENT PROJECT 2 - Streamlit web application**  🛠️
+#### **DEPLOYMENT PROJECT 2 - Streamlit web application**  🛠️
 
 &nbsp;
 Deployed a house price prediction streamlit app on Heroku, which not only predicts price but also shows their locations on a map.
@@ -81,7 +81,7 @@ Watch application demo : https://bit.ly/3ryLbH6
   &nbsp; 
   &nbsp;
   -----------------------------------------------------------------------------------
-  **DEPLOYMENT PROJECT 1 - Flask web application** 🛠️
+ #### **DEPLOYMENT PROJECT 1 - Flask web application** 🛠️
 &nbsp;
 
 Deployed a Flask web app on Heroku, to predict salary based on years of experience using Linear Regression model.
@@ -93,7 +93,7 @@ Deployed a Flask web app on Heroku, to predict salary based on years of experien
 -------------------------------------------------------------------------------------
      Blog
 
-**MEDIUM BLOG** - Data science and analytics, business, technologies  ℹ️
+### **MEDIUM BLOG** - Data science and analytics, business, technologies  ℹ️
 &nbsp;
 
 Checkout my Medium blog  : https://datascienceworks.medium.com/ 
@@ -101,7 +101,7 @@ Checkout my Medium blog  : https://datascienceworks.medium.com/
 &nbsp;
 &nbsp;
 -------------------------------------------------------------------------------------
-**DESCRIPTION OF PROJECTS ( Python, Data analytics,machine learning)**
+### **DESCRIPTION OF PROJECTS ( Python, Data analytics,machine learning)**
 
 &nbsp;
 &nbsp;
