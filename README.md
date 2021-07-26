@@ -117,7 +117,7 @@ Checkout my Medium blog  : https://datascienceworks.medium.com/
 * Pandemic statistics of cases, deaths, recoveries etc. are presented as a notebook with a folium map which you can click to get statistics for each state, easy forthe end-user   to interact.
 
 
-See Readme here : https://bit.ly/3dTS7Jm
+See Readme here : https://bit.ly/3x5l8Zj
 
 
 
@@ -133,7 +133,7 @@ See Readme here : https://bit.ly/3dTS7Jm
     
 
 
-See Readme here : https://bit.ly/2SSJQOm
+See Readme here : https://bit.ly/3l3kcCt
 
 
 
@@ -147,7 +147,7 @@ See Readme here : https://bit.ly/2SSJQOm
    * Used Regex, collections and advanced Python concepts to carefully extract the data for answering specific sales/business questions
      
 
- See Readme here : https://bit.ly/3hmTzWx
+ See Readme here : https://bit.ly/3kTItL7
 
 
 
@@ -165,7 +165,7 @@ See Readme here : https://bit.ly/2SSJQOm
 
 
     
-See Readme here : https://bit.ly/3wp5Qyb
+See Readme here : https://bit.ly/2VeE7n2
     
     
     
@@ -182,7 +182,7 @@ See Readme here : https://bit.ly/3wp5Qyb
 * Highly interactive charts and graphs for the insights found out through visualization
 
 
-See Readme here : https://bit.ly/3hp9HqJ
+See Readme here : https://bit.ly/3y9bwhn
 
 
 
@@ -200,7 +200,7 @@ See Readme here : https://bit.ly/3hp9HqJ
 * Evaluation: Plots of target values obtained vs real values from randomly sampled test values and R square values
 
   
-See Readme here: https://bit.ly/2TJT8N2
+See Readme here: https://bit.ly/3x6Q8rU
 
     
        Please visit MyProjects folder and Readme for the notebooks,approach and the code
