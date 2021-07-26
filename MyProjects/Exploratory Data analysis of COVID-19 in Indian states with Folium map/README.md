@@ -17,6 +17,8 @@
 ![c4](https://user-images.githubusercontent.com/79574776/126948352-1aee42fd-7bc5-4f67-8ffc-1739a0c067d5.png)
 
 
+**See the notebook for the interactive folium map**
+
 
 
 ![c5](https://user-images.githubusercontent.com/79574776/126948366-085ae2cf-4858-45d2-919c-9c02a2509a4a.png)
